@@ -1,0 +1,27 @@
+/*
+
+Dat fresh portfolio
+
+Author: Matthew Ulstad
+URL:    http://matthewulstad.com
+
+*/
+
+
+/* Source Sans Pro
+-------------------------------------------------- */
+
+
+.logo {
+	display: block;
+	margin-bottom: 2rem;
+}
+
+.logo img {
+	width: 2em;
+	margin-right: 1rem;
+}
+
+#main-content {
+	clear: all;
+}
